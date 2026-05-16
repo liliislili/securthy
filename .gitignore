@@ -1,0 +1,21 @@
+# Compiled binaries
+scanner_bin
+employee_bin
+employee_packs_bin
+packs_bin
+
+# Generated reports (contain scan data — don't commit)
+*.json
+*.txt
+*.pdf
+
+# Keep employees.json template
+!employees.json
+
+# Go build cache
+*.test
+*.out
+
+# Editor files
+*.go~
+main.go~

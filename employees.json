@@ -1,0 +1,10 @@
+[
+  {"id":"E001","name":"Dr. Mohamed Benali","email":"benali@chu-tlemcen.dz","device_ip":"127.0.0.31","role":"doctor"},
+  {"id":"E002","name":"Dr. Karima Hadj","email":"hadj@chu-tlemcen.dz","device_ip":"127.0.0.31","role":"doctor"},
+  {"id":"E003","name":"Dr. Youssef Meziane","email":"meziane@chu-tlemcen.dz","device_ip":"127.0.0.41","role":"doctor"},
+  {"id":"E004","name":"Inf. Fatima Khelifi","email":"khelifi@chu-tlemcen.dz","device_ip":"127.0.0.32","role":"nurse"},
+  {"id":"E005","name":"Inf. Sara Boudiaf","email":"boudiaf@chu-tlemcen.dz","device_ip":"127.0.0.32","role":"nurse"},
+  {"id":"E006","name":"Admin. Karim Mansouri","email":"mansouri@chu-tlemcen.dz","device_ip":"127.0.0.30","role":"admin"},
+  {"id":"E007","name":"Fact. Omar Zerrouki","email":"zerrouki@chu-tlemcen.dz","device_ip":"127.0.0.33","role":"billing"},
+  {"id":"E008","name":"Fact. Lynda Aouadi","email":"aouadi@chu-tlemcen.dz","device_ip":"127.0.0.33","role":"billing"}
+]
